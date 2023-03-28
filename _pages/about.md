@@ -22,15 +22,16 @@ Guanxiong Shen is a PhD candidate the Department of Electrical Engineering and E
 
 ## News
 * 9 March 2023: Our paper, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study'' has been accepted by IEEE Communications Magazine. Congratulations Guanxiong. The code of the paper can be found at [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
-* 7 November 2022: Our paper, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning'' has been accepted by IEEE Transactions on Mobile Computing. Congratulations Guolin. [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
-* 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. The dataset and code will be made available soon. Please stay tuned.
+* 7 November 2022: Our paper, “FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning'' has been accepted by IEEE Transactions on Mobile Computing. Congratulations Guolin.
+* 23 January 2022: Our paper, “Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa'' has been accepted by IEEE Transactions on Information Forensics & Security. Congratulations Guanxiong. [Dataset](https://ieee-dataport.org/open-access/lorarffidataset){:target="_blank"} and [code at github](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
+* 1 December 2021: Our paper, “Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices'', has been presented at Asilomar 2021. Congratulations Guanxiong. Please visit [link](https://arxiv.org/abs/2111.14275){:target="_blank"} for the preprint.
+* 3 May, 2021, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Deep Learning”, has just been accepted by IEEE JSAC Series on Machine Learning in Communications and Networks.
+* 5 December, 2020, Our paper, “Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN”, has just been accepted by INFOCOM 2021. Congratulations to Guanxiong.
 
 
 
 ## Contact
-Email: junqing.zhang at liverpool.ac.uk  
-Web: [https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/junqing-zhang/){:target="_blank"}
-Tel: 0151 79 57790  
+Email: Guanxiong.Shen AT liverpool.ac.uk  
 Department of Electrical Engineering and Electronics  
 University of Liverpool  
 Brownlow Hill  
