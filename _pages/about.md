@@ -20,7 +20,7 @@ Guanxiong Shen is a PhD candidate the Department of Electrical Engineering and E
 * Radio frequency fingerprint identification
 * Device free wireless sensing
 
-## News
+## News!!!
 * (26 March 2023) Our paper, "Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification" has been accepted by IEEE Transactions on Information Forensics and Security.
 * (9 March 2023) Our paper, "Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study" has been accepted by IEEE Communications Magazine. Congratulations Guanxiong. The code of the paper can be found at [Code](https://github.com/gxhen/LoRa_RFFI){:target="_blank"}.
 * (7 November 2022) Our paper, "FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning" has been accepted by IEEE Transactions on Mobile Computing. Congratulations Guolin.
