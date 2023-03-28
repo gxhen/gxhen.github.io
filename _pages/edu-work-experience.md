@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecommunications Engineering, Xidian University, 2015-2019
-* Ph.D in Electrical and Electronic Engineering, University of Liverpool, 2019-now
+* B.S. in Telecommunications Engineering, Xidian University, China, 2015-2019
+* B.S. in Telecommunications Engineering, Heriot-Watt University, United Kingdom, 2015-2019
+* Ph.D in Electrical and Electronic Engineering, University of Liverpool, United Kingdom, 2019-now
 
 <!-- Work experience
 ======
