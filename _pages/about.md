@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Guanxiong Shen
+This is Guanxiong Shen [Education and Work](/edu-work-experience/)
