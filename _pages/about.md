@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Guanxiong Shen [Education and Work](/edu-work-experience/)
+Guanxiong Shen is a PhD candidate the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His detailed education can be found in [Education and Work](/edu-work-experience/).
