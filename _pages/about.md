@@ -32,7 +32,7 @@ Guanxiong Shen received his PhD degree from the Department of Electrical Enginee
 
 
 ## Contact
-Email: Guanxiong.Shen AT liverpool.ac.uk  
+Email: gxshen1997 AT outlook.com  
 Department of Electrical Engineering and Electronics  
 University of Liverpool  
 Brownlow Hill  
