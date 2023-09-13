@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Guanxiong Shen"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
-  location         : "Liverpool, UK"
+  bio              : 
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en"

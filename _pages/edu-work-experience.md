@@ -14,8 +14,6 @@ Education
 * B.S. in Telecommunications Engineering, Xidian University, China, Sep. 2015 - Jun. 2019
 * B.S. in Telecommunications Engineering, Heriot-Watt University, United Kingdom, Sep. 2015 - Jun. 2019
 * Ph.D in Electrical and Electronic Engineering, University of Liverpool, United Kingdom, Nov. 2019 - Jul. 2023
-Supervisor: Dr Junqing Zhang
-Co-supervisor: Prof Alan Marshall
 
 <!-- Work experience
 ======
