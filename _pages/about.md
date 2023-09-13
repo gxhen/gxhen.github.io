@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Guanxiong Shen received his PhD degree from the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
+Guanxiong Shen is currently a Lecturer with the School of Cyber Science and Engineering, Southeast University, China. He received his PhD degree from the Department of Electrical Engineering and Electronics, the University of Liverpool, UK. His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
 
 
