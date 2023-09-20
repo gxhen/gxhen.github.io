@@ -32,7 +32,7 @@ Please send me an email if you are interested in collaborating.
 
 
 ## Contact
-Email: gxshen1997 AT outlook.com  
+Email: gxshen AT seu.edu.cn  
 School of Cyber Science and Engineering  
 Southeast University  
 Nanjing
