@@ -25,6 +25,7 @@ Frequency Fingerprint Identification," [arXiv](https://arxiv.org/pdf/2207.02999.
 
 
 # Journal Article
+* **Guanxiong Shen**, and Junqing Zhang<sup>*</sup>, "Exploration of Transferable Deep Learning-Aided Radio Frequency Fingerprint Identification Systems,"_Security and Safety_, accepted [link](https://sands.edpsciences.org/articles/sands/pdf/2024/01/sands20230020.pdf)
 * Junqing Zhang<sup>*</sup>, **Guanxiong Shen**, Walid Saad, and Kaushik Chowdhury, “Radio Frequency Fingerprint Identification for Device Authentication in the Internet of Things,” _IEEE Communications Magazine_, accepted
 * **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, "Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,"_IEEE Transactions on Information Forensics and Security_, accepted [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100932), [arXiv](https://arxiv.org/pdf/2207.03001.pdf), [Dataset](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors), [Code](https://github.com/gxhen/lengthVersatileRFFI)
 * **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, and Alan Marshall, “Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study,”  _IEEE Communications Magazine_, accepted, [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144511), [Code](https://github.com/gxhen/LoRa_RFFI/tree/main/Closed_set_RFFI)
