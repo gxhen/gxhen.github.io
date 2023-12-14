@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Guanxiong Shen (申冠雄) is currently a Lecturer with the School of Cyber Science and Engineering, Southeast University, China. He received his PhD from the University of Liverpool, UK, in 2023 under the supervision of Dr [Junqing Zhang](https://junqing-zhang.github.io/) and Prof [Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/). His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
+Guanxiong Shen (申冠雄) is currently a Research Associate Professor with the School of Cyber Science and Engineering, Southeast University, China. He received his PhD from the University of Liverpool, UK, in 2023 under the supervision of Dr [Junqing Zhang](https://junqing-zhang.github.io/) and Prof [Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/). His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
 Please send me an email if you are interested in collaborating.
 
