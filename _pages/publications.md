@@ -23,7 +23,7 @@ Please [email me](mailto:Guanxiong.Shen@liverpool.ac.uk) if you require a copy o
 
 # Journal Article
 * **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, "Towards Receiver-Agnostic and Collaborative Radio
-Frequency Fingerprint Identification," _IEEE Transactions on Mobile Computing_, accepted, [arXiv](https://arxiv.org/pdf/2207.02999.pdf)
+Frequency Fingerprint Identification," _IEEE Transactions on Mobile Computing_, accepted, [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345732), [arXiv](https://arxiv.org/pdf/2207.02999.pdf), [Code and Dataset](https://github.com/gxhen/receiverAgnosticRFFI)
 * **Guanxiong Shen**, and Junqing Zhang<sup>*</sup>, "Exploration of Transferable Deep Learning-Aided Radio Frequency Fingerprint Identification Systems," _Security and Safety_, [link](https://sands.edpsciences.org/articles/sands/pdf/2024/01/sands20230020.pdf)
 * Junqing Zhang<sup>*</sup>, **Guanxiong Shen**, Walid Saad, and Kaushik Chowdhury, “Radio Frequency Fingerprint Identification for Device Authentication in the Internet of Things,” _IEEE Communications Magazine_, [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10184988)
 * **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Alan Marshall, Mikko Valkama, and Joseph Cavallaro, "Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification,"_IEEE Transactions on Information Forensics and Security_, [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100932), [arXiv](https://arxiv.org/pdf/2207.03001.pdf), [Dataset](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors), [Code](https://github.com/gxhen/lengthVersatileRFFI)
