@@ -25,7 +25,7 @@ Frequency Fingerprint Identification," _IEEE Transactions on Mobile Computing_, 
 
 ### Northeastern University, US
 
-- Amani Al-Shawabka, Philip Pietraski, Sudhir B. Pattar, Francesco Restuccia, and Tommaso Melodia, "DeepLoRa: Fingerprinting LoRa Devices at Scale Through Deep Learning and Data Augmentation," _Proceedings of the Twenty-second International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc '21), [ACM](https://dl.acm.org/doi/10.1145/3466772.3467054), [Dataset](https://www.interdigital.com/data_sets/lora-radio-data.)
+- Amani Al-Shawabka, Philip Pietraski, Sudhir B. Pattar, Francesco Restuccia, and Tommaso Melodia, "DeepLoRa: Fingerprinting LoRa Devices at Scale Through Deep Learning and Data Augmentation," _Proc MobiHoc '21_, [ACM](https://dl.acm.org/doi/10.1145/3466772.3467054), [Dataset](https://www.interdigital.com/data_sets/lora-radio-data.)
 
 ### Oregon State University, US
 
