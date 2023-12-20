@@ -1,11 +1,12 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-3/
+title: 'Radio Frequency Fingerprinting (RFF) Tutorial'
+date: 2023-12-20
+permalink: /posts/2023/12/rff_tutorial
 tags:
-  - cool posts
-  - category1
-  - category2
+  - RF Fingerprinting
+  - RFF
+  - Deep Learning
+  - Software-defined Radio (SDR)
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+To be update

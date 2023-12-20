@@ -1,12 +1,14 @@
 ---
-title: 'Radio Frequency Fingerprinting (RFF) Dataset'
+title: 'Radio Frequency Fingerprinting (RFF) Public Dataset'
 date: 2023-12-20
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/12/rff_dataset
 tags:
   - RF Fingerprinting
   - RFF
   - Deep Learning
 ---
+
+This post summarizes some open-source dataset in the RFF research community.
 
 
 ## LoRa
