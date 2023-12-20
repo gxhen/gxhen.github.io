@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecommunications Engineering, Xidian University, China, Sep. 2015 - Jun. 2019
-* B.S. in Telecommunications Engineering, Heriot-Watt University, United Kingdom, Sep. 2015 - Jun. 2019
-* Ph.D in Electrical and Electronic Engineering, University of Liverpool, United Kingdom, Nov. 2019 - Jul. 2023
+- B.S. in Telecommunications Engineering, Xidian University, China, Sep. 2015 - Jun. 2019
+- B.S. in Telecommunications Engineering, Heriot-Watt University, United Kingdom, Sep. 2015 - Jun. 2019
+- Ph.D in Electrical and Electronic Engineering, University of Liverpool, United Kingdom, Nov. 2019 - Jul. 2023
+
+
+Work
+======
+- Lecturer, Southeast University, China, Sep. 2023 - Dec. 2023
+- Associate Professor (Tenture-Track), Southeast University, China, Dec. 2023 - Present 
+
 
 <!-- Work experience
 ======
