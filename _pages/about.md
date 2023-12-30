@@ -10,7 +10,7 @@ redirect_from:
 
 Guanxiong Shen (申冠雄) is currently an Associate Professor (Tenure-Track) with the School of Cyber Science and Engineering, Southeast University (东南大学), China. He received his PhD from the University of Liverpool, UK, in 2023 under the supervision of Dr [Junqing Zhang](https://junqing-zhang.github.io/) and Prof [Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/). His detailed education background and work experience can be found in [Education and Work](/edu-work-experience/).
 
-My official personal homepage at Southeast University: https://cyber.seu.edu.cn/sgx/list.psp
+My official personal homepage at Southeast University: [中文个人主页](https://cyber.seu.edu.cn/sgx/list.psp)
 
 Please send me an email if you are interested in collaborating.
 
