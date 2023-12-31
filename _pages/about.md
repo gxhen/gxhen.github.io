@@ -15,12 +15,12 @@ My official personal homepage at Southeast University: [中文个人主页](http
 Please send me an email if you are interested in collaborating.
 
 ## Research Area
-* Internet of Things
-* Wireless security
-* Physical layer security
-* Device authentication
+
+We target cutting-edge research at the intersection of wireless communications, artificial intelligence, and cybersecurity. My current research interests include but are not limited to:
+
+* Wireless physical layer security
 * Radio frequency fingerprint identification
-* Device free wireless sensing
+* Wireless sensing
 
 ## News!!!
 * (21 Nov 2023) Our paper, "Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification" has been accepted by IEEE Transactions on Mobile Computing. [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345732), [arXiv](https://arxiv.org/pdf/2207.02999.pdf). The code and dataset are available at [Code and Dataset](https://github.com/gxhen/receiverAgnosticRFFI).
