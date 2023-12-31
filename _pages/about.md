@@ -18,9 +18,11 @@ Please send me an email if you are interested in collaborating.
 
 We target cutting-edge research at the intersection of wireless communications, artificial intelligence, and cybersecurity. My current research interests include but are not limited to:
 
-* Wireless physical layer security
 * Radio frequency fingerprint identification
+* Physical Layer Security
 * Wireless sensing
+* AI Security in the Wireless Context
+
 
 ## News!!!
 * (21 Nov 2023) Our paper, "Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification" has been accepted by IEEE Transactions on Mobile Computing. [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345732), [arXiv](https://arxiv.org/pdf/2207.02999.pdf). The code and dataset are available at [Code and Dataset](https://github.com/gxhen/receiverAgnosticRFFI).
