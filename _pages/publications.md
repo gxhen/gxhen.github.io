@@ -22,6 +22,8 @@ Please [email me](mailto:Guanxiong.Shen@liverpool.ac.uk) if you require a copy o
 # Preprint
 
 # Journal Article
+
+* **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Xuyu Wang, and Shiwen Mao, "Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning," _IEEE Transactions on Information Forensics and Security_, accepted
 * **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Alan Marshall, Roger Woods, Joseph Cavallaro, and Liquan Chen, "Towards Receiver-Agnostic and Collaborative Radio
 Frequency Fingerprint Identification," _IEEE Transactions on Mobile Computing_, accepted, [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345732), [arXiv](https://arxiv.org/pdf/2207.02999.pdf), [Code and Dataset](https://github.com/gxhen/receiverAgnosticRFFI)
 * **Guanxiong Shen**, and Junqing Zhang<sup>*</sup>, "Exploration of Transferable Deep Learning-Aided Radio Frequency Fingerprint Identification Systems," _Security and Safety_, [link](https://sands.edpsciences.org/articles/sands/pdf/2024/01/sands20230020.pdf)
