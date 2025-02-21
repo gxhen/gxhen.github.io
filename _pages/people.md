@@ -12,7 +12,6 @@ We very welcome research collaborations and visits.
 {% include base_path %}
 
 # Master Students
-
 ## Year 2024
 
 * Mr Hailang Jia  (2024 - Now)
