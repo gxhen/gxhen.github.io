@@ -5,9 +5,9 @@ permalink: /people/
 author_profile: true
 ---
 
-We very welcome research collaborations and visits.
+My research interestes fall within the intersections of AI, wireless applications (communication, radar, etc.), and cybersecurity. Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining my group. Applications with excellent programming skills, e.g., Python, MATLAB, C++, will be prioritized. 
 
-<sup>*</sup> denotes corresponding author.
+We very welcome research collaborations and visits.
 
 {% include base_path %}
 
