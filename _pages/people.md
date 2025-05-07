@@ -21,7 +21,6 @@ We very welcome research collaborations and visits.
 * Mr Chenyang Wu   (2024 - Now)
 * Mr Xiangcong Li  (2024 - Now)
 * Mr Jiahua Zou    (2024 - Now)
-
 * Mr Jiamu Guo     (2025 - Now)
 * Mr Yang Song     (2025 - Now)
 * Mr Dacheng Shang (2025 - Now)
