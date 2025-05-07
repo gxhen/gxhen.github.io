@@ -18,10 +18,9 @@ Please send me an email if you are interested in collaborating.
 
 We target cutting-edge research at the intersection of wireless communications, artificial intelligence, and cybersecurity. My current research interests include but are not limited to:
 
-* Radio frequency fingerprint identification
+* AI-aided Radio Frequency (RF) Fingerprinting
+* AI in the Wireless Context
 * Physical Layer Security
-* Wireless sensing
-* AI Security in the Wireless Context
 
 
 ## News!!!
