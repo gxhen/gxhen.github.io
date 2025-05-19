@@ -24,6 +24,7 @@ We target cutting-edge research at the intersection of wireless communications, 
 
 
 ## News!!!
+* (14 May 2025) Our survey paper, "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/11003929).
 * (15 Sep 2024) Our paper, "Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/10697226), [Code](https://github.com/gxhen/federatedRFFI), [Dataset](https://ieee-dataport.org/documents/lorafederatedrffidataset).
 * (21 Nov 2023) Our paper, "Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification" has been accepted by IEEE Transactions on Mobile Computing. [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345732), [arXiv](https://arxiv.org/pdf/2207.02999.pdf). The code and dataset are available at [Code and Dataset](https://github.com/gxhen/receiverAgnosticRFFI).
 * (26 March 2023) Our paper, "Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100932), [Dataset](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors), [Code](https://github.com/gxhen/lengthVersatileRFFI)
