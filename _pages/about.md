@@ -22,11 +22,11 @@ We target cutting-edge research at the intersection of wireless communications, 
   * Machine Learning-aided Radio Frequency Fingerprinting
   * Information Hiding in Wireless Systems
   * Machine Learning Applications at Wireless PHY layer
-* Networking for AI Agents
+* Wireless Networking for AI Agents
 
 
 ## News!!!
-* (10 June 2025) We are honored to be invited by the IEEE Signal Processing Society to present our work on RF fingerprinting at the SPS Webinar on June 11. Prof Joseph Cavallaro will also share recent research from Rice University on deploying RF fingerprinting systems on FPGAs. Everyone is welcome to join! [SPS Webinar](https://landing.signalprocessingsociety.org/jun-11-2025).
+* (10 June 2025) We are honored to be invited by the IEEE Signal Processing Society to present our work on RF fingerprinting at the SPS Webinar on June 11. Prof Joseph Cavallaro from Rice University will also share recent research on deploying RF fingerprinting systems on FPGAs. Everyone is welcome to join! [SPS Webinar](https://landing.signalprocessingsociety.org/jun-11-2025).
 * (14 May 2025) Our survey paper, "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/11003929).
 * (15 Sep 2024) Our paper, "Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/10697226), [Code](https://github.com/gxhen/federatedRFFI), [Dataset](https://ieee-dataport.org/documents/lorafederatedrffidataset).
 * (21 Nov 2023) Our paper, "Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification" has been accepted by IEEE Transactions on Mobile Computing. [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345732), [arXiv](https://arxiv.org/pdf/2207.02999.pdf). The code and dataset are available at [Code and Dataset](https://github.com/gxhen/receiverAgnosticRFFI).
