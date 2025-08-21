@@ -6,8 +6,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "People"
+  - title: "课题组介绍"
     url: /people/
-
-  - title: "Technical Blog"
-    url: /year-archive/
