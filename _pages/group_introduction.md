@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Group Introduction"
-permalink: /people/
+permalink: /group_introduction/
 author_profile: true
 ---
 
