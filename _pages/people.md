@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "People"
+title: "Group Introduction"
 permalink: /people/
 author_profile: true
 ---
-
-# 课题组介绍
 
 我们课题组的主要研究方向是“AI + Wireless”，即利用先进的AI技术推动无线通信系统的革新，尤其聚焦于与安全相关的研究课题。团队的研究风格偏向系统构建与原型实现，绝大多数工作都基于[软件无线电](https://zhuanlan.zhihu.com/p/595770136)（Software-Defined Radio, SDR）平台搭建真实可运行的原型系统。在本课题组将学会构建WiFi、蓝牙、LoRa、ZigBee等原型无线通信系统，深入理解数据是如何转化为电磁波在空中传输的。我们不仅关注传统无线技术，更致力于探索AI与无线系统的深度融合：例如，利用深度学习模型对实际采集的电磁信号进行分析与识别，或采用生成式AI技术设计新型波形以承载信息。这些工作将提供跨学科研究训练，涵盖通信、人工智能与硬件系统等多个领域。
 
