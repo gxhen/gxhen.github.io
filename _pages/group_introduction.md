@@ -17,7 +17,7 @@ author_profile: true
 Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining my group. Applicants with the following experiences will be prioritized:
 * GNU Radio
 * FPGA, especially Zynq series
-* Micro-chip controller (MCU) suas ESP32
+* Micro-chip controller (MCU) such as ESP32
 
 
 {% include base_path %}
