@@ -15,7 +15,7 @@ My official personal homepage at Southeast University: [中文个人主页](http
 
 **Recruiting PhD and MSc Students:** If you are interested in joining my lab, please feel free to contact me. Excellent programming skills, such as experience in Python, C++, Verilog HDL, and related areas, would be a valuable foundation for our research. Please do not worry if you do not have a background in wireless communications, as our work lies at the intersection of AI and wireless technologies, where both skill sets are equally important.
 
-我们欢迎保研或考研的硕士、博士研究生加入: [课题组介绍](/people/)。
+我们欢迎保研或考研的硕士、博士研究生加入: [课题组介绍](/group_introduction/)。
 
 
 ## Research Area
