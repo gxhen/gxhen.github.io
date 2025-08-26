@@ -11,7 +11,7 @@ author_profile: true
 
 如果以学术为导向，我会至少全过程指导一篇期刊/会议论文，包括idea generation, coding/debug, experiment design, paper writing等，并对后续工作思路进行引导。我们和海外课题组联系密切，有丰富的学术合作机会，助力你接受完整的科研训练，成为独立严谨的科研工作者。
 
-我们欢迎保研或考研的硕士、博士研究生加入。由于研究具有较强的跨学科特性，无线通信的背景并不是必须的，可以在项目中快速得到补足。但我们希望申请者具备基本的编程能力，或有使用 PyTorch、TensorFlow 等深度学习框架的经验。最重要的是，我们期待你以兴趣为驱动，具备良好的自驱力，能够认真对待并主动推进自己的研究项目，真正做到学有所成、研有所获。
+我们欢迎保研或考研的硕士、博士研究生加入。由于研究具有较强的跨学科特性，无线通信的背景并不是必须的，可以在项目中快速得到补足。但我们希望申请者具备基本的编程能力，或有使用 PyTorch、TensorFlow 等深度学习框架的经验。最重要的是，我们期待你以兴趣为驱动，具备良好的自驱力，能够认真对待并主动推进自己的研究项目，真正做到研有所获。
 
 
 Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining my group. Applicants with the following experiences will be prioritized:
