@@ -26,7 +26,6 @@ We target cutting-edge research at the intersection of wireless communications, 
   * Machine Learning-aided Radio Frequency Fingerprinting
   * Information Hiding in Wireless Systems
   * Machine Learning Applications at Wireless PHY layer
-  * Hardware Trojan
 * Intelligent Wireless Networking
 
 
