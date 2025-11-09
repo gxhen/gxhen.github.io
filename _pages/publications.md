@@ -23,6 +23,7 @@ Please [email me](mailto:Guanxiong.Shen@liverpool.ac.uk) if you require a copy o
 
 # Journal Article
 
+* Jie Ma, Junqing Zhang<sup>*</sup>, Guanxiong Shen, Linning Peng, Alan Marshall, "Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification," _IEEE Transactions on Information Forensics and Security_, [IEEE](https://ieeexplore.ieee.org/document/11232481)
 * Junqing Zhang, Francesco Ardizzon, Mattia Piana, **Guanxiong Shen**, and Stefano Tomasin, "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice," _IEEE Transactions on Information Forensics and Security_, [IEEE](https://ieeexplore.ieee.org/document/11003929) (**Survey Paper**)
 * Pengcheng Yin, Linning Peng, **Guanxiong Shen**, Junqing Zhang, Ming Liu, Hua Fu, Aiqun Hu, and Xianbin Wang, "Multi-channel CNN-based open-set RF fingerprint identification for LTE devices," _IEEE Transactions on Cognitive Communications and Networking_, [IEEE](https://ieeexplore.ieee.org/document/10505882)
 * **Guanxiong Shen**, Junqing Zhang<sup>*</sup>, Xuyu Wang, and Shiwen Mao, "Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning," _IEEE Transactions on Information Forensics and Security_, [IEEE](https://ieeexplore.ieee.org/document/10697226), [Code](https://github.com/gxhen/federatedRFFI), [Dataset](https://ieee-dataport.org/documents/lorafederatedrffidataset)
