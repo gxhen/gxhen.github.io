@@ -9,7 +9,7 @@ His citation profile in [Google Scholar](https://scholar.google.com/citations?us
 
 Please [email me](mailto:Guanxiong.Shen@liverpool.ac.uk) if you require a copy of the paper.
 
-<sup>*</sup> denotes corresponding author, <sup>\dagger</sup> denotes equal contribution.
+<sup>*</sup> denotes corresponding author, <sup>$\dagger$</sup> denotes equal contribution.
 
 {% include base_path %}
 
@@ -23,7 +23,7 @@ Please [email me](mailto:Guanxiong.Shen@liverpool.ac.uk) if you require a copy o
 
 # Journal Article
 
-* Xinyu Li, Long Chen, Guanxiong Shen, Kezhan Zhao, Ze Gu, Qian Ma, Jian Wei You, and Tie Jun Cui, "Protocol-Agnostic Key Distribution Enabled by Space-Time Metasurface for Encrypted Wireless Communications"," _Advanced Science_, accepted.
+* Xinyu Li<sup>$\dagger$</sup>, Long Chen<sup>$\dagger$</sup>, Guanxiong Shen<sup>$\dagger$</sup>, Kezhan Zhao, Ze Gu, Qian Ma, Jian Wei You, and Tie Jun Cui, "Protocol-Agnostic Key Distribution Enabled by Space-Time Metasurface for Encrypted Wireless Communications"," _Advanced Science_, accepted.
 * Jie Ma, Junqing Zhang<sup>*</sup>, Guanxiong Shen, Linning Peng, and Alan Marshall, "Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification," _IEEE Transactions on Information Forensics and Security_, [IEEE](https://ieeexplore.ieee.org/document/11232481)
 * Junqing Zhang, Francesco Ardizzon, Mattia Piana, **Guanxiong Shen**, and Stefano Tomasin, "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice," _IEEE Transactions on Information Forensics and Security_, [IEEE](https://ieeexplore.ieee.org/document/11003929) (**Survey Paper**)
 * Pengcheng Yin, Linning Peng, **Guanxiong Shen**, Junqing Zhang, Ming Liu, Hua Fu, Aiqun Hu, and Xianbin Wang, "Multi-channel CNN-based open-set RF fingerprint identification for LTE devices," _IEEE Transactions on Cognitive Communications and Networking_, [IEEE](https://ieeexplore.ieee.org/document/10505882)
