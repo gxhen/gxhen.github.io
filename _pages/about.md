@@ -31,7 +31,8 @@ We target cutting-edge research at the intersection of wireless communications, 
 
 ## News!!!
 
-* (9 Nov 2025) Our paper, "Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification" has been accepted by IEEE IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/11232481).
+* (12 Nov 2025) Our paper, "Protocol-Agnostic Key Distribution Enabled by Space-Time Metasurface for Encrypted Wireless Communications" has been accepted by Advanced Science. Congratulations!
+* (9 Nov 2025) Our paper, "Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/11232481).
 * (10 June 2025) We are honored to be invited by the IEEE Signal Processing Society to present our work on RF fingerprinting at the SPS Webinar on June 11. Prof Joseph Cavallaro from Rice University will also share recent research on deploying RF fingerprinting systems on FPGAs. Everyone is welcome to join! [SPS Webinar](https://landing.signalprocessingsociety.org/jun-11-2025).
 * (14 May 2025) Our survey paper, "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/11003929).
 * (15 Sep 2024) Our paper, "Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning" has been accepted by IEEE Transactions on Information Forensics and Security. [IEEE](https://ieeexplore.ieee.org/document/10697226), [Code](https://github.com/gxhen/federatedRFFI), [Dataset](https://ieee-dataport.org/documents/lorafederatedrffidataset).
