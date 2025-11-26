@@ -22,6 +22,13 @@ Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining 
 
 {% include base_path %}
 
+
+# 科研项目
+
+* 华为技术有限公司，具备环境泛化能力的Wi-Fi射频指纹识别系统技术项目，2025/08 - 2026/08.
+* 国家自然青年基金，基于物理层特征的车辆数字钥匙射频指纹认证技术研究，2025/01 - 2027/12.
+
+
 # PhD Student
 
 * Mr Rui Pan       (2025 - Now, Co-supervision with Dr Linning Peng)
