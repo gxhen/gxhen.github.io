@@ -49,7 +49,6 @@ We target cutting-edge research at the intersection of wireless communications, 
 ## Professional Activities
 
 ### Workshop Co-Chairs
-* [IEEE WCNC 2025: Physical Layer Security for Wireless Communications](https://wcnc2025.ieee-wcnc.org/program/workshops#ws06)
 * [IEEE ICC 2025 Third Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/3rd-workshop)
 * [IEEE GLOBECOM 2024 Second Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/2nd-workshop)
 * [IEEE ICC 2024 First Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/1st-workshop)
@@ -57,6 +56,8 @@ We target cutting-edge research at the intersection of wireless communications, 
 ### TPC Member
 * [IEEE INFOCOM 2025 Third DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop/3rd-workshop)
 * [IEEE INFOCOM 2024 Second DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://infocom2024.ieee-infocom.org/second-deepwireless-workshop-deep-learning-wireless-communications-sensing-and-security-call-papers)
+* [IEEE WCNC 2026: Physical Layer Security for Wireless Communications](https://wcnc2025.ieee-wcnc.org/program/workshops#ws06)
+* [IEEE WCNC 2025: Physical Layer Security for Wireless Communications](https://wcnc2025.ieee-wcnc.org/program/workshops#ws06)
 
 
 ## Contact
