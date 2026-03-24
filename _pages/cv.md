@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Curriculum Vitae
+<!-- ## Curriculum Vitae -->
 
 You can open or download the PDF version of my CV below:
 
