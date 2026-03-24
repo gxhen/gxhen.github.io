@@ -31,11 +31,11 @@ Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining 
 
 # PhD Student
 
-* Mr Rui Pan       (2025 - Now, Co-supervision with Dr Linning Peng)
+* Mr Rui Pan       (2025.10 - Now, Co-supervision with Dr Linning Peng)
+* Mr Hailang Jia   (2026.03 - Now)
 
 # Master Students
 
-* Mr Hailang Jia   (2024 - Now)
 * Mr Chenyang Wu   (2024 - Now)
 * Mr Xiangcong Li  (2024 - Now)
 * Mr Jiahua Zou    (2024 - Now)
