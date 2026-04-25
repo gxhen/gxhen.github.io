@@ -23,10 +23,34 @@ Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining 
 {% include base_path %}
 
 
-# 科研项目
+## 科研方向介绍视频
+
+<iframe 
+  src="https://player.bilibili.com/player.html?bvid=BV1L3oRBXE1v&page=1"
+  scrolling="no" 
+  border="0" 
+  frameborder="no" 
+  framespacing="0" 
+  allowfullscreen="true"
+  style="width: 100%; aspect-ratio: 16/9; max-width: 800px;">
+</iframe>
+
+
+<iframe 
+  src="https://player.bilibili.com/player.html?bvid=BV1d3oRBXEiU&page=1"
+  scrolling="no" 
+  border="0" 
+  frameborder="no" 
+  framespacing="0" 
+  allowfullscreen="true"
+  style="width: 100%; aspect-ratio: 16/9; max-width: 800px;">
+</iframe>
+
+
+<!-- # 科研项目
 
 * 华为技术有限公司，具备环境泛化能力的Wi-Fi射频指纹识别系统技术项目，2025/08 - 2026/08.
-* 国家自然青年基金，基于物理层特征的车辆数字钥匙射频指纹认证技术研究，2025/01 - 2027/12.
+* 国家自然青年基金，基于物理层特征的车辆数字钥匙射频指纹认证技术研究，2025/01 - 2027/12. -->
 
 
 # PhD Student
