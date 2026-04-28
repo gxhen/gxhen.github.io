@@ -20,6 +20,8 @@ Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining 
 
 ## 射频指纹技术系统演示
 
+每台无线设备在出厂时，都因制造工艺的细微差异而拥有独一无二的"硬件指纹"。射频指纹技术通过神经网络捕捉这些设备发射信号时的微小波形特征来实现对设备身份的精准识别。
+
 <iframe 
   src="https://player.bilibili.com/player.html?bvid=BV1L3oRBXE1v&page=1&high_quality=1&autoplay=0"
   scrolling="no" 
@@ -31,6 +33,8 @@ Please drop me an email (gxshen AT seu.edu.cn) if you are interested in joining 
 </iframe>
 
 ## 射频隐写技术系统演示
+
+每台无线设备发出的射频信号，都可以成为一张隐秘的"信封"。射频隐写技术通过神经网络在发射信号中引入难以察觉的微弱波形失真，将秘密信息嵌入物理层信号之中
 
 <iframe 
   src="https://player.bilibili.com/player.html?bvid=BV1d3oRBXEiU&page=1&high_quality=1&autoplay=0"
