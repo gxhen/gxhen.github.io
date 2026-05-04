@@ -23,7 +23,7 @@ export interface Publication {
   month?: string;
   publishedDate?: string;
   doi?: string;
-  arxivId?: string;
+  arxiv?: string;
   pmid?: string;
   url?: string;
   code?: string;

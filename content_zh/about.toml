@@ -17,14 +17,14 @@ source = "bio.md"
 title = "关于我"
 
 [[sections]]
+id = "news"
+type = "list"
+title = "新闻"
+source = "news.toml"
+
+[[sections]]
 id = "featured_publications"
 type = "publications"
 title = "代表性论文"
 filter = "selected"
 limit = 5
-
-[[sections]]
-id = "news"
-type = "list"
-title = "新闻"
-source = "news.toml"
