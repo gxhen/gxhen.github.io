@@ -1,4 +1,8 @@
 type = "publication"
 title = "Publications"
-description = "A collection of my research work. [Google Scholar](https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en). * denotes corresponding author, † denotes equal contribution."
+description = """
+A collection of my research work. [Google Scholar](https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en).
+
+<span style="color: #dc2626;"><sup>*</sup> denotes corresponding author, <sup>†</sup> denotes equal contribution.</span>
+"""
 source = "publications.bib"

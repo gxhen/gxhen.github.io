@@ -11,5 +11,5 @@
 
 ## Work Experience
 
-- **Associate Professor (Tenure-Track)**, Southeast University, China, *Dec. 2023 - Present*
+- **Associate Professor**, Southeast University, China, *Dec. 2023 - Present*
 - **Lecturer**, Southeast University, China, *Sep. 2023 - Dec. 2023*

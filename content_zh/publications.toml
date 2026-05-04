@@ -1,4 +1,8 @@
 type = "publication"
 title = "论文"
-description = "我的研究工作汇总。[Google Scholar](https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en)。* 表示通讯作者，† 表示同等贡献。"
+description = """
+我的研究工作汇总。[Google Scholar](https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en)。
+
+<span style="color: #dc2626;"><sup>*</sup> 表示通讯作者，<sup>†</sup> 表示同等贡献。</span>
+"""
 source = "publications.bib"
