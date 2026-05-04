@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 import { CardPageConfig } from '@/types/page';
 
 const markdownComponents = {
@@ -40,7 +41,7 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                 <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>{config.title}</h1>
                 {config.description && (
                     <div className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl leading-relaxed`}>
-                        <ReactMarkdown components={markdownComponents}>
+                        <ReactMarkdown rehypePlugins={[rehypeRaw]} components={markdownComponents}>
                             {config.description}
                         </ReactMarkdown>
                     </div>
@@ -69,7 +70,7 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                         )}
                         {item.content && (
                             <div className={`${embedded ? "text-sm" : "text-base"} text-neutral-600 dark:text-neutral-500 leading-relaxed`}>
-                                <ReactMarkdown components={markdownComponents}>
+                                <ReactMarkdown rehypePlugins={[rehypeRaw]} components={markdownComponents}>
                                     {item.content}
                                 </ReactMarkdown>
                             </div>
