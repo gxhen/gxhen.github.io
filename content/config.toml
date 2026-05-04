@@ -1,0 +1,70 @@
+[site]
+title = "Guanxiong Shen"
+description = "Associate Professor at Southeast University"
+favicon = "/favicon.svg"
+last_updated = "May 2026"
+
+[author]
+name = "Guanxiong Shen"
+title = "Associate Professor (Tenure-Track)"
+institution = "Southeast University"
+avatar = "/bio.jpg"
+
+[social]
+email = "gxshen@seu.edu.cn"
+location = "Nanjing, China"
+location_url = "https://maps.google.com"
+location_details = [
+  "School of Cyber Science and Engineering,",
+  "Southeast University, Nanjing, China"
+]
+google_scholar = "https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en"
+github = "https://github.com/gxhen"
+linkedin = ""
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Group"
+type = "page"
+target = "group"
+href = "/group"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

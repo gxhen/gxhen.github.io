@@ -1,0 +1,30 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "无线系统中的机器学习应用",
+  "射频指纹识别",
+  "无线信息系统隐藏",
+  "物理层机器学习应用",
+  "智能无线网络"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "代表性论文"
+filter = "selected"
+limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "新闻"
+source = "news.toml"

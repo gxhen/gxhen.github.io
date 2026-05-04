@@ -1,0 +1,49 @@
+[site]
+title = "申冠雄"
+description = "东南大学副教授，博士生导师"
+last_updated = "2026年5月"
+
+[author]
+name = "申冠雄"
+title = "副教授（Tenure-Track）"
+institution = "东南大学"
+
+[social]
+email = "gxshen@seu.edu.cn"
+location = "中国 南京"
+location_details = [
+  "东南大学网络空间安全学院，",
+  "南京，中国"
+]
+google_scholar = "https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en"
+github = "https://github.com/gxhen"
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "课题组"
+type = "page"
+target = "group"
+href = "/group"
+
+[[navigation]]
+title = "学术服务"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

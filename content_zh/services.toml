@@ -1,0 +1,50 @@
+type = "card"
+title = "学术服务"
+description = "学术服务与社区参与。"
+
+[[items]]
+title = "Workshop 联合主席"
+subtitle = "IEEE ICC 2025"
+date = "2025"
+content = "第三届机器学习与深度学习无线安全研讨会。[网站](https://sites.google.com/view/ml-dl-wireless-sec/3rd-workshop)"
+
+[[items]]
+title = "Workshop 联合主席"
+subtitle = "IEEE GLOBECOM 2024"
+date = "2024"
+content = "第二届机器学习与深度学习无线安全研讨会。[网站](https://sites.google.com/view/ml-dl-wireless-sec/2nd-workshop)"
+
+[[items]]
+title = "Workshop 联合主席"
+subtitle = "IEEE ICC 2024"
+date = "2024"
+content = "第一届机器学习与深度学习无线安全研讨会。[网站](https://sites.google.com/view/ml-dl-wireless-sec/1st-workshop)"
+
+[[items]]
+title = "TPC 成员"
+subtitle = "IEEE INFOCOM 2025, DeepWireless Workshop"
+date = "2025"
+content = "第三届DeepWireless研讨会：无线通信、感知与安全的深度学习。"
+
+[[items]]
+title = "TPC 成员"
+subtitle = "IEEE INFOCOM 2024, DeepWireless Workshop"
+date = "2024"
+content = "第二届DeepWireless研讨会：无线通信、感知与安全的深度学习。"
+
+[[items]]
+title = "TPC 成员"
+subtitle = "IEEE WCNC 2026"
+date = "2026"
+content = "无线通信物理层安全研讨会。"
+
+[[items]]
+title = "TPC 成员"
+subtitle = "IEEE WCNC 2025"
+date = "2025"
+content = "无线通信物理层安全研讨会。"
+
+[[items]]
+title = "审稿人"
+subtitle = "各类期刊与会议"
+content = "为IEEE TIFS、IEEE TMC、IEEE JSAC、IEEE ComMag、INFOCOM、ICC、GLOBECOM等期刊和会议审稿。"

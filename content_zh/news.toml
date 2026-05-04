@@ -1,0 +1,59 @@
+[[news]]
+date = "2026-03"
+content = "贾海浪同学加入课题组攻读博士学位。欢迎！"
+
+[[news]]
+date = "2025-11"
+content = '论文 "Protocol-Agnostic Meta Key Distribution Enabled by Space-Time Metasurface for Encrypted Wireless Communications" 被 **Advanced Science** (IF=14.1) 接收。[查看](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514715)。'
+
+[[news]]
+date = "2025-11"
+content = '论文 "Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification" 被 **IEEE TIFS** 接收。[查看](https://ieeexplore.ieee.org/document/11232481)。'
+
+[[news]]
+date = "2025-10"
+content = "潘锐同学加入课题组攻读博士学位（与彭林宁博士联合指导）。欢迎！"
+
+[[news]]
+date = "2025-06"
+content = '受邀在 **IEEE SPS Webinar** 上分享射频指纹识别研究工作。Rice大学的Joseph Cavallaro教授也分享了关于在FPGA上部署射频指纹系统的最新研究。[SPS Webinar](https://landing.signalprocessingsociety.org/jun-11-2025)。'
+
+[[news]]
+date = "2025-05"
+content = '综述论文 "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice" 被 **IEEE TIFS** 接收。[查看](https://ieeexplore.ieee.org/document/11003929)。'
+
+[[news]]
+date = "2024-09"
+content = '论文 "Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning" 被 **IEEE TIFS** 接收。[查看](https://ieeexplore.ieee.org/document/10697226)。'
+
+[[news]]
+date = "2023-11"
+content = '论文 "Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification" 被 **IEEE TMC** 接收。'
+
+[[news]]
+date = "2023-03"
+content = '论文 "Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification" 被 **IEEE TIFS** 接收。'
+
+[[news]]
+date = "2023-03"
+content = '论文 "Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study" 被 **IEEE Communications Magazine** 接收。'
+
+[[news]]
+date = "2022-11"
+content = '论文 "FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning" 被 **IEEE TMC** 接收。'
+
+[[news]]
+date = "2022-01"
+content = '论文 "Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa" 被 **IEEE TIFS** 接收。'
+
+[[news]]
+date = "2021-12"
+content = '论文 "Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices" 在 **Asilomar 2021** 报告。'
+
+[[news]]
+date = "2021-05"
+content = '论文 "Radio Frequency Fingerprint Identification for LoRa Using Deep Learning" 被 **IEEE JSAC** 接收。'
+
+[[news]]
+date = "2020-12"
+content = '论文 "Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN" 被 **INFOCOM 2021** 接收。'

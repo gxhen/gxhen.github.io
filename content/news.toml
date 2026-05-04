@@ -1,0 +1,59 @@
+[[news]]
+date = "2026-03"
+content = "Mr Hailang Jia joins the group as a PhD student. Welcome!"
+
+[[news]]
+date = "2025-11"
+content = 'Our paper, "Protocol-Agnostic Meta Key Distribution Enabled by Space-Time Metasurface for Encrypted Wireless Communications" has been accepted by **Advanced Science** (IF=14.1). [View](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514715).'
+
+[[news]]
+date = "2025-11"
+content = 'Our paper, "Towards Channel-Robust and Receiver-Independent Radio Frequency Fingerprint Identification" has been accepted by **IEEE Transactions on Information Forensics and Security**. [View](https://ieeexplore.ieee.org/document/11232481).'
+
+[[news]]
+date = "2025-10"
+content = "Mr Rui Pan joins the group as a PhD student (co-supervised with Dr Linning Peng). Welcome!"
+
+[[news]]
+date = "2025-06"
+content = 'We are honored to present our work on RF fingerprinting at the **IEEE SPS Webinar**. Prof Joseph Cavallaro from Rice University also shared recent research on deploying RF fingerprinting systems on FPGAs. [SPS Webinar](https://landing.signalprocessingsociety.org/jun-11-2025).'
+
+[[news]]
+date = "2025-05"
+content = 'Our survey paper, "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice" has been accepted by **IEEE Transactions on Information Forensics and Security**. [View](https://ieeexplore.ieee.org/document/11003929).'
+
+[[news]]
+date = "2024-09"
+content = 'Our paper, "Federated Radio Frequency Fingerprint Identification Powered by Unsupervised Contrastive Learning" has been accepted by **IEEE Transactions on Information Forensics and Security**. [View](https://ieeexplore.ieee.org/document/10697226), [Code](https://github.com/gxhen/federatedRFFI), [Dataset](https://ieee-dataport.org/documents/lorafederatedrffidataset).'
+
+[[news]]
+date = "2023-11"
+content = 'Our paper, "Towards Receiver-Agnostic and Collaborative Radio Frequency Fingerprint Identification" has been accepted by **IEEE Transactions on Mobile Computing**. [Code and Dataset](https://github.com/gxhen/receiverAgnosticRFFI).'
+
+[[news]]
+date = "2023-03"
+content = 'Our paper, "Towards Length-Versatile and Noise-Robust Radio Frequency Fingerprint Identification" has been accepted by **IEEE Transactions on Information Forensics and Security**. [Dataset](https://ieee-dataport.org/documents/lorarffidatasetdifferentspreadingfactors), [Code](https://github.com/gxhen/lengthVersatileRFFI).'
+
+[[news]]
+date = "2023-03"
+content = 'Our paper, "Deep Learning-Powered Radio Frequency Fingerprint Identification: Methodology and Case Study" has been accepted by **IEEE Communications Magazine**. [Code](https://github.com/gxhen/LoRa_RFFI).'
+
+[[news]]
+date = "2022-11"
+content = 'Our paper, "FewSense, Towards a Scalable and Cross-Domain Wi-Fi Sensing System Using Few-Shot Learning" has been accepted by **IEEE Transactions on Mobile Computing**.'
+
+[[news]]
+date = "2022-01"
+content = 'Our paper, "Towards Scalable and Channel-Robust Radio Frequency Fingerprint Identification for LoRa" has been accepted by **IEEE Transactions on Information Forensics and Security**. [Dataset](https://ieee-dataport.org/open-access/lorarffidataset), [Code](https://github.com/gxhen/LoRa_RFFI).'
+
+[[news]]
+date = "2021-12"
+content = 'Our paper, "Radio Frequency Fingerprint Identification for Security in Low-Cost IoT Devices", has been presented at **Asilomar 2021**. [arXiv](https://arxiv.org/abs/2111.14275).'
+
+[[news]]
+date = "2021-05"
+content = 'Our paper, "Radio Frequency Fingerprint Identification for LoRa Using Deep Learning", has been accepted by **IEEE JSAC** Series on Machine Learning in Communications and Networks.'
+
+[[news]]
+date = "2020-12"
+content = 'Our paper, "Radio Frequency Fingerprint Identification for LoRa Using Spectrogram and CNN", has been accepted by **INFOCOM 2021**.'

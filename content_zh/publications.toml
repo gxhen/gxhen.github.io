@@ -1,0 +1,4 @@
+type = "publication"
+title = "论文"
+description = "我的研究工作汇总。[Google Scholar](https://scholar.google.com/citations?user=n4hAXN8AAAAJ&hl=en)。* 表示通讯作者，† 表示同等贡献。"
+source = "publications.bib"

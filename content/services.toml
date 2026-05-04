@@ -1,0 +1,50 @@
+type = "card"
+title = "Professional Services"
+description = "Professional services and community involvement."
+
+[[items]]
+title = "Workshop Co-Chair"
+subtitle = "IEEE ICC 2025"
+date = "2025"
+content = "Third Workshop on Machine Learning and Deep Learning for Wireless Security. [Website](https://sites.google.com/view/ml-dl-wireless-sec/3rd-workshop)"
+
+[[items]]
+title = "Workshop Co-Chair"
+subtitle = "IEEE GLOBECOM 2024"
+date = "2024"
+content = "Second Workshop on Machine Learning and Deep Learning for Wireless Security. [Website](https://sites.google.com/view/ml-dl-wireless-sec/2nd-workshop)"
+
+[[items]]
+title = "Workshop Co-Chair"
+subtitle = "IEEE ICC 2024"
+date = "2024"
+content = "First Workshop on Machine Learning and Deep Learning for Wireless Security. [Website](https://sites.google.com/view/ml-dl-wireless-sec/1st-workshop)"
+
+[[items]]
+title = "TPC Member"
+subtitle = "IEEE INFOCOM 2025, DeepWireless Workshop"
+date = "2025"
+content = "Third DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security. [Website](https://sites.google.com/view/deepwireless-workshop/3rd-workshop)"
+
+[[items]]
+title = "TPC Member"
+subtitle = "IEEE INFOCOM 2024, DeepWireless Workshop"
+date = "2024"
+content = "Second DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security."
+
+[[items]]
+title = "TPC Member"
+subtitle = "IEEE WCNC 2026"
+date = "2026"
+content = "Physical Layer Security for Wireless Communications Workshop."
+
+[[items]]
+title = "TPC Member"
+subtitle = "IEEE WCNC 2025"
+date = "2025"
+content = "Physical Layer Security for Wireless Communications Workshop."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Various Journals and Conferences"
+content = "Reviewer for IEEE TIFS, IEEE TMC, IEEE JSAC, IEEE ComMag, INFOCOM, ICC, GLOBECOM, etc."
