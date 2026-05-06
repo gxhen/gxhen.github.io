@@ -8,7 +8,7 @@ My official personal homepage at Southeast University: [中文个人主页](http
 
 ---
 
-## RF Fingerprinting System Demo
+## RF Fingerprinting Prototype
 
 Every wireless device possesses a unique "hardware fingerprint" due to subtle manufacturing imperfections. RF fingerprinting technology leverages neural networks to capture the minute waveform characteristics of transmitted signals, enabling precise device identification.
 
@@ -22,7 +22,7 @@ Every wireless device possesses a unique "hardware fingerprint" due to subtle ma
   style="width: 100%; aspect-ratio: 16/9; max-width: 800px;">
 </iframe>
 
-## RF Steganography System Demo
+## RF Steganography Prototype
 
 Every wireless signal can serve as a covert "envelope." RF steganography technology uses neural networks to introduce imperceptible waveform distortions into transmitted signals, embedding secret information at the physical layer.
 
