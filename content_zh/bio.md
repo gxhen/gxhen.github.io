@@ -1,4 +1,4 @@
-申冠雄，现任东南大学网络空间安全学院副教授。2023年于英国利物浦大学获得博士学位，导师为[张峻卿博士](https://junqing-zhang.github.io/)和[Alan Marshall教授](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/)。
+申冠雄，现任东南大学网络空间安全学院副教授。2023年于英国利物浦大学获得博士学位，导师为[Dr Junqing Zhang](https://junqing-zhang.github.io/)和[Prof Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/)。
 
 东南大学官方个人主页：[中文个人主页](https://cyber.seu.edu.cn/sgx/list.psp)。衷心欢迎各类形式的学术合作。
 
