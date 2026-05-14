@@ -3,11 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Applied Machine Learning in Wireless Systems",
-  "Radio Frequency Fingerprinting",
-  "Information Hiding in Wireless Systems",
-  "Machine Learning at Wireless PHY Layer",
-  "Intelligent Wireless Networking"
+  "Intelligent Radio",
+  "LLM and Agent for Radio",
+  "Wireless Security"
 ]
 
 [[sections]]
