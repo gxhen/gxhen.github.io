@@ -1,4 +1,12 @@
 [[news]]
+date = "2026-08"
+content = 'Our paper, "Wi-Fi Radio Frequency Fingerprint Identification Enhanced by Out-of-Band Features and Orthogonality Regularization" has been accepted by **IEEE Transactions on Information Forensics and Security**. [View](https://ieeexplore.ieee.org/document/11653439).'
+
+[[news]]
+date = "2026-05"
+content = 'Our paper, "Triad-GAN: Feature-Level Generative Adversarial Network for Multi-Receiver Radio Frequency Fingerprint Identification" has been accepted by **IEEE ICC 2026**. [View](https://ieeexplore.ieee.org/document/11588052).'
+
+[[news]]
 date = "2026-05"
 content = 'Our paper, "Practical Wi-Fi-based Motion Recognition Under Variable Traffic Patterns" has been posted on **arXiv**. [View](https://arxiv.org/abs/2605.08308).'
 
@@ -9,6 +17,18 @@ content = 'Our paper, "Hiding Secrets in the CSI Quotient: A Robust Wi-Fi CSI St
 [[news]]
 date = "2026-03"
 content = "Mr Hailang Jia joins the group as a PhD student. Welcome!"
+
+[[news]]
+date = "2026-01"
+content = 'Our paper, "Secure Communication in MIMOME Movable-Antenna Systems with Statistical Eavesdropper CSI" has been posted on **arXiv**. [View](https://arxiv.org/abs/2601.14755).'
+
+[[news]]
+date = "2025-12"
+content = 'Our paper, "Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification" has been accepted by **IEEE Transactions on Mobile Computing**. [View](https://ieeexplore.ieee.org/document/11304531).'
+
+[[news]]
+date = "2025-12"
+content = 'Our paper, "Securing Cross-Domain Internet of Drones: An RFF-PUF Allied Authenticated Key Exchange Protocol With Over-the-Air Enrollment" has been posted on **arXiv**. [View](https://arxiv.org/abs/2512.21827).'
 
 [[news]]
 date = "2025-11"
@@ -29,6 +49,10 @@ content = 'We are honored to present our work on RF fingerprinting at the **IEEE
 [[news]]
 date = "2025-05"
 content = 'Our survey paper, "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice" has been accepted by **IEEE Transactions on Information Forensics and Security**. [View](https://ieeexplore.ieee.org/document/11003929).'
+
+[[news]]
+date = "2025-03"
+content = 'Our paper, "Ensemble Learning-Enhanced Radio Frequency Fingerprinting" has been accepted by **IEEE WCNC 2025**. [View](https://ieeexplore.ieee.org/document/10978487).'
 
 [[news]]
 date = "2024-09"

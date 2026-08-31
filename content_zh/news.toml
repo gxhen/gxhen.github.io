@@ -1,4 +1,12 @@
 [[news]]
+date = "2026-08"
+content = '论文 "Wi-Fi Radio Frequency Fingerprint Identification Enhanced by Out-of-Band Features and Orthogonality Regularization" 被 **IEEE TIFS** 接收。[查看](https://ieeexplore.ieee.org/document/11653439)。'
+
+[[news]]
+date = "2026-05"
+content = '论文 "Triad-GAN: Feature-Level Generative Adversarial Network for Multi-Receiver Radio Frequency Fingerprint Identification" 被 **IEEE ICC 2026** 接收。[查看](https://ieeexplore.ieee.org/document/11588052)。'
+
+[[news]]
 date = "2026-05"
 content = '论文 "Practical Wi-Fi-based Motion Recognition Under Variable Traffic Patterns" 已发布于 **arXiv**。[查看](https://arxiv.org/abs/2605.08308)。'
 
@@ -9,6 +17,18 @@ content = '论文 "Hiding Secrets in the CSI Quotient: A Robust Wi-Fi CSI Stegan
 [[news]]
 date = "2026-03"
 content = "贾海浪同学加入课题组攻读博士学位。欢迎！"
+
+[[news]]
+date = "2026-01"
+content = '论文 "Secure Communication in MIMOME Movable-Antenna Systems with Statistical Eavesdropper CSI" 已发布于 **arXiv**。[查看](https://arxiv.org/abs/2601.14755)。'
+
+[[news]]
+date = "2025-12"
+content = '论文 "Adversarial Attacks Against Deep Learning-Based Radio Frequency Fingerprint Identification" 被 **IEEE TMC** 接收。[查看](https://ieeexplore.ieee.org/document/11304531)。'
+
+[[news]]
+date = "2025-12"
+content = '论文 "Securing Cross-Domain Internet of Drones: An RFF-PUF Allied Authenticated Key Exchange Protocol With Over-the-Air Enrollment" 已发布于 **arXiv**。[查看](https://arxiv.org/abs/2512.21827)。'
 
 [[news]]
 date = "2025-11"
@@ -29,6 +49,10 @@ content = '受邀在 **IEEE SPS Webinar** 上分享射频指纹识别研究工�
 [[news]]
 date = "2025-05"
 content = '综述论文 "Physical Layer-Based Device Fingerprinting For Wireless Security: From Theory To Practice" 被 **IEEE TIFS** 接收。[查看](https://ieeexplore.ieee.org/document/11003929)。'
+
+[[news]]
+date = "2025-03"
+content = '论文 "Ensemble Learning-Enhanced Radio Frequency Fingerprinting" 被 **IEEE WCNC 2025** 接收。[查看](https://ieeexplore.ieee.org/document/10978487)。'
 
 [[news]]
 date = "2024-09"

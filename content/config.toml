@@ -2,13 +2,14 @@
 title = "Guanxiong Shen"
 description = "Associate Professor at Southeast University"
 favicon = "/favicon.svg"
-last_updated = "May 2026"
+last_updated = "August 2026"
 
 [author]
 name = "Guanxiong Shen"
 title = "Associate Professor"
 institution = "Southeast University"
 avatar = "/bio.jpg"
+motto = "Academic for Fun"
 
 [social]
 email = "gxshen@seu.edu.cn"

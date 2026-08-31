@@ -1,12 +1,13 @@
 [site]
 title = "申冠雄"
 description = "东南大学副教授，博士生导师"
-last_updated = "2026年5月"
+last_updated = "2026年8月"
 
 [author]
 name = "申冠雄"
 title = "副教授"
 institution = "东南大学"
+motto = "Academic for Fun"
 
 [social]
 email = "gxshen@seu.edu.cn"
