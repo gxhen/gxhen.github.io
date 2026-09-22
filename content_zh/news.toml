@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-09"
+content = '论文 "Secrets in Radio Waves: Towards Practical and Protocol-Agnostic PHY Information Hiding" 被 **IEEE TMC** 接收。[查看 arXiv](https://arxiv.org/abs/2609.23319)。'
+
+[[news]]
 date = "2026-08"
 content = '论文 "Wi-Fi Radio Frequency Fingerprint Identification Enhanced by Out-of-Band Features and Orthogonality Regularization" 被 **IEEE TIFS** 接收。[查看](https://ieeexplore.ieee.org/document/11653439)。'
 

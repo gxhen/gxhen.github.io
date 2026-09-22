@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-09"
+content = 'Our paper, "Secrets in Radio Waves: Towards Practical and Protocol-Agnostic PHY Information Hiding" has been accepted by **IEEE Transactions on Mobile Computing**. [arXiv](https://arxiv.org/abs/2609.23319).'
+
+[[news]]
 date = "2026-08"
 content = 'Our paper, "Wi-Fi Radio Frequency Fingerprint Identification Enhanced by Out-of-Band Features and Orthogonality Regularization" has been accepted by **IEEE Transactions on Information Forensics and Security**. [View](https://ieeexplore.ieee.org/document/11653439).'
 
