@@ -3,6 +3,17 @@ title = "Curriculum Vitae"
 pdf = "/CV_GuanxiongShen.pdf"
 publications_source = "publications.bib"
 
+titles = [
+  "Doctoral Supervisor",
+  "Zijin Young Scholar",
+  "World's Top 2% Scientist (2026)",
+]
+
+honors = [
+  "World's Top 2% Scientists List (Stanford University & Elsevier), 2026",
+  "Zijin Young Scholar, Southeast University",
+]
+
 research_summary = "I focus on cutting-edge research at the intersection of wireless communications, artificial intelligence, and cybersecurity. My current research interests include but are not limited to:"
 research_items = [
   "Machine Learning-aided Radio Frequency Fingerprinting",
@@ -14,6 +25,7 @@ research_items = [
 [labels]
 career = "Career"
 education = "Education"
+honors = "Honors & Awards"
 research_interests = "Research Interests"
 publications = "Publications"
 journal_publications = "Journal Publications"

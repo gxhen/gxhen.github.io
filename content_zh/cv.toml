@@ -3,6 +3,17 @@ title = "个人简历"
 pdf = "/CV_GuanxiongShen.pdf"
 publications_source = "publications.bib"
 
+titles = [
+  "博士生导师",
+  "紫金青年学者",
+  "全球前 2% 顶尖科学家（2026）",
+]
+
+honors = [
+  "全球前 2% 顶尖科学家榜单（斯坦福大学与 Elsevier 联合发布），2026",
+  "东南大学紫金青年学者",
+]
+
 research_summary = "我的研究聚焦于无线通信、人工智能与网络安全的交叉领域。目前的研究兴趣包括但不限于："
 research_items = [
   "机器学习辅助的射频指纹识别",
@@ -14,6 +25,7 @@ research_items = [
 [labels]
 career = "工作经历"
 education = "教育背景"
+honors = "荣誉奖励"
 research_interests = "研究兴趣"
 publications = "学术成果"
 journal_publications = "期刊论文"

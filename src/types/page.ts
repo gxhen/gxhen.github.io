@@ -53,6 +53,7 @@ export interface CvListSection {
 export interface CvLabels {
     career?: string;
     education?: string;
+    honors?: string;
     research_interests?: string;
     publications?: string;
     journal_publications?: string;
@@ -70,10 +71,12 @@ export interface CvPageConfig extends BasePageConfig {
     pdf?: string;
     publications_source?: string;
     labels?: CvLabels;
+    titles?: string[];
     research_summary?: string;
     research_items?: string[];
     career?: CvEntry[];
     education?: CvEntry[];
+    honors?: string[];
     teaching?: CvEntry[];
     funding?: CvFunding[];
     supervision?: CvListSection[];

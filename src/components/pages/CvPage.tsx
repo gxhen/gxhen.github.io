@@ -12,6 +12,7 @@ import {
     GlobeAltIcon,
     AcademicCapIcon,
     CodeBracketIcon,
+    TrophyIcon,
 } from '@heroicons/react/24/outline';
 import { CvPageConfig, CvEntry, CvIdentity, CvFunding, CvListSection } from '@/types/page';
 import { Publication } from '@/types/publication';
@@ -26,6 +27,7 @@ interface CvPageProps {
 const DEFAULT_LABELS = {
     career: 'Career',
     education: 'Education',
+    honors: 'Honors & Awards',
     research_interests: 'Research Interests',
     publications: 'Publications',
     journal_publications: 'Journal Publications',
@@ -374,6 +376,7 @@ export default function CvPage({ config, publications, identity }: CvPageProps) 
         const list: { id: string; label: string }[] = [];
         if (config.career?.length) list.push({ id: 'cv-career', label: labels.career });
         if (config.education?.length) list.push({ id: 'cv-education', label: labels.education });
+        if (config.honors?.length) list.push({ id: 'cv-honors', label: labels.honors });
         if (config.research_items?.length) list.push({ id: 'cv-research', label: labels.research_interests });
         if (journalPublications.length + conferencePublications.length > 0) {
             list.push({ id: 'cv-publications', label: labels.publications });
@@ -434,6 +437,19 @@ export default function CvPage({ config, publications, identity }: CvPageProps) 
                         <p className="mt-2 text-lg text-neutral-600 dark:text-neutral-400">
                             {identity.title}, {identity.institution}
                         </p>
+                        {config.titles && config.titles.length > 0 && (
+                            <div className="mt-3 flex flex-wrap gap-2">
+                                {config.titles.map((title, index) => (
+                                    <span
+                                        key={index}
+                                        className="inline-flex items-center gap-1.5 rounded-full border border-accent/40 bg-accent/10 px-3.5 py-1 text-sm font-medium text-accent-dark dark:text-accent shadow-sm"
+                                    >
+                                        <TrophyIcon className="h-3.5 w-3.5" />
+                                        {title}
+                                    </span>
+                                ))}
+                            </div>
+                        )}
                         <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-neutral-500 dark:text-neutral-400">
                             {identity.email && (
                                 <a
@@ -538,6 +554,22 @@ export default function CvPage({ config, publications, identity }: CvPageProps) 
                 {config.education && config.education.length > 0 && (
                     <SectionShell id="cv-education" title={labels.education}>
                         <Timeline entries={config.education} />
+                    </SectionShell>
+                )}
+
+                {config.honors && config.honors.length > 0 && (
+                    <SectionShell id="cv-honors" title={labels.honors}>
+                        <ul className="space-y-2.5">
+                            {config.honors.map((item, index) => (
+                                <li
+                                    key={index}
+                                    className="flex gap-3 text-[15px] text-neutral-600 dark:text-neutral-400 leading-relaxed"
+                                >
+                                    <TrophyIcon className="mt-0.5 h-4 w-4 shrink-0 text-accent" />
+                                    <InlineMarkdown text={item} />
+                                </li>
+                            ))}
+                        </ul>
                     </SectionShell>
                 )}
 
