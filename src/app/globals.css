@@ -243,6 +243,14 @@ body {
   background: var(--neutral-500);
 }
 
+/* CV page: scroll-reveal sections must be fully visible when printed */
+@media print {
+  .cv-reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
 /* Card background utility */
 .card-bg {
   background-color: #ffffff;

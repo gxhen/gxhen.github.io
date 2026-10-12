@@ -1,3 +1,158 @@
-type = "text"
-title = "CV"
-source = "cv.md"
+type = "cv"
+title = "Curriculum Vitae"
+pdf = "/CV_GuanxiongShen.pdf"
+publications_source = "publications.bib"
+
+research_summary = "I focus on cutting-edge research at the intersection of wireless communications, artificial intelligence, and cybersecurity. My current research interests include but are not limited to:"
+research_items = [
+  "Machine Learning-aided Radio Frequency Fingerprinting",
+  "Information Hiding in Wireless Systems",
+  "Machine Learning Applications at Wireless PHY Layer",
+  "Wireless Sensing",
+]
+
+[labels]
+career = "Career"
+education = "Education"
+research_interests = "Research Interests"
+publications = "Publications"
+journal_publications = "Journal Publications"
+conference_publications = "Conference Publications"
+teaching = "Teaching Experience"
+funding = "Funding"
+supervision = "Supervision"
+activities = "Professional Activities"
+download_pdf = "Download PDF"
+print = "Print"
+
+[[career]]
+title = "Associate Professor"
+organization = "Southeast University"
+department = "School of Cyber Science and Engineering"
+location = "Nanjing, China"
+period = "Dec 2023 – Present"
+
+[[career]]
+title = "Lecturer"
+organization = "Southeast University"
+department = "School of Cyber Science and Engineering"
+location = "Nanjing, China"
+period = "Sept 2023 – Dec 2023"
+
+[[education]]
+title = "Ph.D. in Electrical Engineering and Electronics"
+organization = "University of Liverpool"
+location = "Liverpool, United Kingdom"
+period = "2019 – 2023"
+details = [
+  "Thesis: Deep learning enhanced radio frequency fingerprint identification for LoRa",
+  "Supervisors: Dr. [Junqing Zhang](https://junqing-zhang.github.io/) and Prof. [Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/)",
+]
+
+[[education]]
+title = "B.Eng. in Telecommunication Engineering"
+organization = "Heriot-Watt University"
+location = "Edinburgh, United Kingdom"
+period = "2015 – 2019"
+details = [
+  "Honours of the First Class",
+  "Thesis Topic: Deep learning for wireless channel estimation",
+  "Supervisor: Dr. Muhammad R.A. Khandaker",
+]
+
+[[education]]
+title = "B.Eng. in Telecommunication Engineering"
+organization = "Xidian University"
+location = "Xi'an, China"
+period = "2015 – 2019"
+
+[[teaching]]
+title = "Teacher"
+organization = "Southeast University"
+location = "Nanjing, China"
+period = "2024 / 2025"
+details = [
+  "B5710312 Mobile Communication and Security (taught in English)",
+  "Undergraduate course",
+]
+
+[[teaching]]
+title = "Lab Demonstrator"
+organization = "University of Liverpool"
+location = "Liverpool, United Kingdom"
+period = "2020 / 2021"
+details = [
+  "ELEC431 Software Engineering and Programming",
+  "Instructed M.Sc. students to complete the Matlab course design",
+]
+
+[[funding]]
+title = "National Natural Science Foundation of China, Youth Funding"
+role = "Principal Investigator"
+period = "2024 – 2027"
+topic = "RF fingerprint identification for vehicle digital keys based on physical layer characteristics"
+
+[[funding]]
+title = "Huawei University-Enterprise Cooperation Funding"
+role = "Principal Investigator"
+period = "2025 – 2026"
+topic = "RF fingerprint identification for Wi-Fi"
+
+[[supervision]]
+category = "Ph.D. Students"
+items = [
+  "Rui Pan",
+  "Hailang Jia",
+]
+
+[[supervision]]
+category = "M.Phil. Students"
+items = [
+  "Chenyang Wu",
+  "Xiangcong Li",
+  "Jiahua Zou",
+  "Jiamu Guo",
+  "Yang Song",
+  "Dacheng Shang",
+  "Wentao Xiao",
+  "Chenshuo Tang",
+  "Lu Yang",
+]
+
+[[supervision]]
+category = "Undergraduate Students"
+items = [
+  "Yuetong Wang",
+  "Jiamu Guo",
+  "Zhiyao Wu",
+  "Runheng Lu",
+  "Lu Li",
+  "Shang Xu",
+]
+
+[[activities]]
+category = "Workshop Co-Chair"
+items = [
+  "IEEE ICC 2026 Workshop on Machine Learning and Deep Learning for Wireless Security",
+  "IEEE GLOBECOM 2025 Workshop on Machine Learning and Deep Learning for Wireless Security",
+  "[IEEE ICC 2025 Third Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/3rd-workshop)",
+  "[IEEE GLOBECOM 2024 Second Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/2nd-workshop)",
+  "[IEEE ICC 2024 First Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/1st-workshop)",
+]
+
+[[activities]]
+category = "TPC Member"
+items = [
+  "IEEE ACM WiseML 2026 Workshop on Wireless Security and Machine Learning",
+  "IEEE WCNC 2026 Workshop on Physical Layer Security for Wireless Communications",
+  "IEEE ICNC 2026 AI and Machine Learning for Communications and Networking",
+  "[IEEE INFOCOM 2025 Third DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop/3rd-workshop)",
+  "IEEE WCNC 2025 Workshop on Physical Layer Security for Wireless Communications",
+  "IEEE INFOCOM 2024 Second DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security",
+]
+
+[[activities]]
+category = "Reviewer"
+items = [
+  "IEEE TIFS, IEEE TMC, IEEE JSAC, IEEE Communications Magazine, INFOCOM, ICC, GLOBECOM, etc.",
+]

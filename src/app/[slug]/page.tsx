@@ -8,6 +8,8 @@ import {
   PublicationPageConfig,
   TextPageConfig,
   CardPageConfig,
+  CvPageConfig,
+  CvIdentity,
 } from '@/types/page';
 
 import { Metadata } from 'next';
@@ -44,6 +46,27 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
     return {
       type: 'card',
       config: pageConfig as CardPageConfig,
+    };
+  }
+
+  if (pageConfig.type === 'cv') {
+    const cvConfig = pageConfig as CvPageConfig;
+    const bibtex = getBibtexContent(cvConfig.publications_source || 'publications.bib', locale);
+    const siteConfig = getConfig(locale);
+    const identity: CvIdentity = {
+      name: siteConfig.author.name,
+      title: siteConfig.author.title,
+      institution: siteConfig.author.institution,
+      email: siteConfig.social.email,
+      location: siteConfig.social.location,
+      google_scholar: siteConfig.social.google_scholar,
+      github: siteConfig.social.github,
+    };
+    return {
+      type: 'cv',
+      config: cvConfig,
+      publications: parseBibTeX(bibtex, locale),
+      identity,
     };
   }
 

@@ -1,3 +1,158 @@
-type = "text"
-title = "简历"
-source = "cv.md"
+type = "cv"
+title = "个人简历"
+pdf = "/CV_GuanxiongShen.pdf"
+publications_source = "publications.bib"
+
+research_summary = "我的研究聚焦于无线通信、人工智能与网络安全的交叉领域。目前的研究兴趣包括但不限于："
+research_items = [
+  "机器学习辅助的射频指纹识别",
+  "无线系统中的信息隐藏",
+  "无线物理层的机器学习应用",
+  "无线感知",
+]
+
+[labels]
+career = "工作经历"
+education = "教育背景"
+research_interests = "研究兴趣"
+publications = "学术成果"
+journal_publications = "期刊论文"
+conference_publications = "会议论文"
+teaching = "教学经历"
+funding = "科研项目"
+supervision = "学生指导"
+activities = "学术服务"
+download_pdf = "下载 PDF"
+print = "打印"
+
+[[career]]
+title = "副教授"
+organization = "东南大学"
+department = "网络空间安全学院"
+location = "中国 南京"
+period = "2023年12月 – 至今"
+
+[[career]]
+title = "讲师"
+organization = "东南大学"
+department = "网络空间安全学院"
+location = "中国 南京"
+period = "2023年9月 – 2023年12月"
+
+[[education]]
+title = "博士，电子与电气工程"
+organization = "利物浦大学"
+location = "英国 利物浦"
+period = "2019 – 2023"
+details = [
+  "论文：深度学习增强的 LoRa 射频指纹识别",
+  "导师：[张峻卿](https://junqing-zhang.github.io/)博士 和 [Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/) 教授",
+]
+
+[[education]]
+title = "学士，通信工程"
+organization = "赫瑞瓦特大学"
+location = "英国 爱丁堡"
+period = "2015 – 2019"
+details = [
+  "一等荣誉学位",
+  "毕设课题：基于深度学习的无线信道估计",
+  "导师：Muhammad R.A. Khandaker 博士",
+]
+
+[[education]]
+title = "学士，通信工程"
+organization = "西安电子科技大学"
+location = "中国 西安"
+period = "2015 – 2019"
+
+[[teaching]]
+title = "主讲教师"
+organization = "东南大学"
+location = "中国 南京"
+period = "2024 / 2025"
+details = [
+  "B5710312 移动通信与安全（全英文授课）",
+  "本科生课程",
+]
+
+[[teaching]]
+title = "实验助教"
+organization = "利物浦大学"
+location = "英国 利物浦"
+period = "2020 / 2021"
+details = [
+  "ELEC431 软件工程与编程",
+  "指导硕士生完成 Matlab 课程设计",
+]
+
+[[funding]]
+title = "国家自然科学基金青年科学基金"
+role = "项目负责人"
+period = "2024 – 2027"
+topic = "基于物理层特性的汽车数字钥匙射频指纹识别"
+
+[[funding]]
+title = "华为校企合作项目"
+role = "项目负责人"
+period = "2025 – 2026"
+topic = "Wi-Fi 射频指纹识别"
+
+[[supervision]]
+category = "博士生"
+items = [
+  "Rui Pan",
+  "Hailang Jia",
+]
+
+[[supervision]]
+category = "硕士生"
+items = [
+  "Chenyang Wu",
+  "Xiangcong Li",
+  "Jiahua Zou",
+  "Jiamu Guo",
+  "Yang Song",
+  "Dacheng Shang",
+  "Wentao Xiao",
+  "Chenshuo Tang",
+  "Lu Yang",
+]
+
+[[supervision]]
+category = "本科生"
+items = [
+  "Yuetong Wang",
+  "Jiamu Guo",
+  "Zhiyao Wu",
+  "Runheng Lu",
+  "Lu Li",
+  "Shang Xu",
+]
+
+[[activities]]
+category = "Workshop 联合主席"
+items = [
+  "IEEE ICC 2026 Workshop on Machine Learning and Deep Learning for Wireless Security",
+  "IEEE GLOBECOM 2025 Workshop on Machine Learning and Deep Learning for Wireless Security",
+  "[IEEE ICC 2025 Third Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/3rd-workshop)",
+  "[IEEE GLOBECOM 2024 Second Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/2nd-workshop)",
+  "[IEEE ICC 2024 First Workshop on Machine Learning and Deep Learning for Wireless Security](https://sites.google.com/view/ml-dl-wireless-sec/1st-workshop)",
+]
+
+[[activities]]
+category = "TPC 委员"
+items = [
+  "IEEE ACM WiseML 2026 Workshop on Wireless Security and Machine Learning",
+  "IEEE WCNC 2026 Workshop on Physical Layer Security for Wireless Communications",
+  "IEEE ICNC 2026 AI and Machine Learning for Communications and Networking",
+  "[IEEE INFOCOM 2025 Third DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security](https://sites.google.com/view/deepwireless-workshop/3rd-workshop)",
+  "IEEE WCNC 2025 Workshop on Physical Layer Security for Wireless Communications",
+  "IEEE INFOCOM 2024 Second DeepWireless Workshop: Deep Learning for Wireless Communications, Sensing, and Security",
+]
+
+[[activities]]
+category = "审稿人"
+items = [
+  "IEEE TIFS、IEEE TMC、IEEE JSAC、IEEE Communications Magazine、INFOCOM、ICC、GLOBECOM 等",
+]
