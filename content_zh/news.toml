@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-10"
+content = '论文 "Secrets in Preamble: Practical and Robust PHY Information Hiding for Wi-Fi" 已发布于 **arXiv**。[查看](https://arxiv.org/abs/2610.13367)。'
+
+[[news]]
 date = "2026-09"
 content = '论文 "Secrets in Radio Waves: Towards Practical and Protocol-Agnostic PHY Information Hiding" 被 **IEEE TMC** 接收。[查看 arXiv](https://arxiv.org/abs/2609.23319)。'
 

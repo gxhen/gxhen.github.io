@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-10"
+content = 'Our paper, "Secrets in Preamble: Practical and Robust PHY Information Hiding for Wi-Fi" has been posted on **arXiv**. [View](https://arxiv.org/abs/2610.13367).'
+
+[[news]]
 date = "2026-09"
 content = 'Our paper, "Secrets in Radio Waves: Towards Practical and Protocol-Agnostic PHY Information Hiding" has been accepted by **IEEE Transactions on Mobile Computing**. [arXiv](https://arxiv.org/abs/2609.23319).'
 
