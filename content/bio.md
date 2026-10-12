@@ -1,4 +1,6 @@
-I am currently an Associate Professor with the School of Cyber Science and Engineering, Southeast University (东南大学), China. I received my PhD from the University of Liverpool, UK, in 2023 under the supervision of Dr [Junqing Zhang](https://junqing-zhang.github.io/) and Prof [Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/).
+I am currently an Associate Professor and **Doctoral Supervisor** with the School of Cyber Science and Engineering, Southeast University (东南大学), China. I am a **Zijin Young Scholar** (紫金青年学者) of Southeast University, and was selected for the **World's Top 2% Scientists List (2026)** released by Stanford University and Elsevier. I received my PhD from the University of Liverpool, UK, in 2023 under the supervision of Dr [Junqing Zhang](https://junqing-zhang.github.io/) and Prof [Alan Marshall](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/alan-marshall/).
+
+For more details about my experience and achievements, please refer to my [CV](/cv).
 
 My official personal homepage at Southeast University: [中文个人主页](https://cyber.seu.edu.cn/sgx/list.psp). I sincerely welcome all forms of collaboration.
 
