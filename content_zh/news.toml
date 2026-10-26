@@ -8,7 +8,7 @@ content = '论文 "Secrets in Preamble: Practical and Robust PHY Information Hid
 
 [[news]]
 date = "2026-09"
-content = '论文 "Secrets in Radio Waves: Towards Practical and Protocol-Agnostic PHY Information Hiding" 被 **IEEE TMC** 接收。[查看 arXiv](https://arxiv.org/abs/2609.23319)。'
+content = '论文 "Secrets in Radio Waves: Towards Practical and Protocol-Agnostic PHY Information Hiding" 被 **IEEE TMC** 接收。[查看 arXiv](https://arxiv.org/abs/2609.23319)，[代码](https://github.com/gxhen/RF_steganography)。'
 
 [[news]]
 date = "2026-08"
